@@ -1,6 +1,9 @@
 import streamlit as st
 
-st.title("🎈 My new app")
+st.title("Selamat datang di website informatika")
+st.image("9341ece2-b26d-4759-a3da-c3f84b644ff1.png", width=200)
+st.write("\n")
+st.subheader("Muhammad 'Mister' Rofi")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    "Mari latihan membuat website melalui Github dan Streamlit bersama Mister Rofi"
 )
